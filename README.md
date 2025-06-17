@@ -31,7 +31,7 @@ Soy una persona comprometida, proactiva y con una fuerte orientación al crecimi
 - ⛽ **App de Gasolineras** – App móvil que consulta una API REST del gobierno
 - ⚡ **Análisis con IA de la REE** – Web app con Streamlit y modelos de predicción eléctrica
 
-> Puedes ver más en mis [repositorios públicos](https://github.com/Samu-Sr00).
+> Puedes ver más en mis [repositorios públicos](https://github.com/Samu-Sr00?tab=repositories).
 
 ---
 
