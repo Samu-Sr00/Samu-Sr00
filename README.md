@@ -20,9 +20,9 @@ I'm a dedicated and proactive developer with a strong focus on continuous learni
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Flutter  
-- **Backend:** Node.js, Express  
-- **Databases:** MongoDB, Firebase  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, Flutter  
+- **Backend:** PHP, Python, SQL  
+- **Databases:** MySQL, PostgreSQL, Firebase  
 - **Data Science / AI:** Python, Pandas, Scikit-learn, Prophet, Streamlit  
 - **Tools:** Git, GitHub, VS Code
 
@@ -43,7 +43,6 @@ I'm a dedicated and proactive developer with a strong focus on continuous learni
 
 - Advanced **AI applications** and ML model deployment  
 - Building beautiful and scalable apps with **Flutter**  
-- Data pipelines and real-time data processing
 
 ---
 
