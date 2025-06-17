@@ -1,58 +1,61 @@
-<h1 align="center">Hola, soy Samuel 👋</h1>
+<h1 align="center">Hi there, I'm Samuel 👋</h1>
 
 <p align="center">
-  👨‍💻 Desarrollador apasionado por la tecnología, en constante aprendizaje.<br>
-  🚀 Explorando el mundo de la Inteligencia Artificial.<br>
-  🎮 Amante de los videojuegos, la naturaleza y los retos.
+  <img src="https://your-banner-image-url.com/banner.jpg" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  👨‍💻 Passionate developer always eager to learn and grow.<br>
+  🚀 Exploring the world of Artificial Intelligence.<br>
+  🎮 Gamer | 📚 Explorer | 🌿 Nature lover
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-Soy una persona comprometida, proactiva y con una fuerte orientación al crecimiento. Me encanta programar, aprender cosas nuevas y enfrentar desafíos que me saquen de mi zona de confort. Actualmente estoy profundizando en el desarrollo de aplicaciones con **Flutter**, el análisis de datos con **Python** y la aplicación de modelos de **IA**.
-
----
-
-### 🛠️ Tecnologías que uso
-
-- **Frontend:** HTML, CSS, JavaScript, Flutter
-- **Backend:** Node.js, Express
-- **Bases de Datos:** MongoDB, Firebase
-- **Data Science / IA:** Python, Pandas, Scikit-learn, Prophet, Streamlit
-- **Herramientas:** Git, GitHub, VS Code
+I'm a dedicated and proactive developer with a strong focus on continuous learning and improvement. I enjoy taking on new challenges and I'm currently deepening my knowledge in **Flutter**, **APIs**, and **Artificial Intelligence** using **Python** and tools like **Streamlit** and **Scikit-learn**.
 
 ---
 
-### 📂 Proyectos destacados
+### 🛠️ Tech Stack
 
-- 🍣 **Web Restaurante de Sushi** – Sitio web estático con HTML y CSS
-- ⚽ **Demo Biwenger** – Pantalla inicial del juego creada con Flutter
-- ⛽ **App de Gasolineras** – App móvil que consulta una API REST del gobierno
-- ⚡ **Análisis con IA de la REE** – Web app con Streamlit y modelos de predicción eléctrica
-
-> Puedes ver más en mis [repositorios públicos](https://github.com/Samu-Sr00?tab=repositories).
-
----
-
-### 🌱 En progreso...
-
-- Explorando más sobre **Inteligencia Artificial aplicada**
-- Perfeccionando apps móviles con **Flutter**
-- Ampliando conocimientos en **arquitecturas modernas**
+- **Frontend:** HTML, CSS, JavaScript, Flutter  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, Firebase  
+- **Data Science / AI:** Python, Pandas, Scikit-learn, Prophet, Streamlit  
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-### 🤝 ¿Colaboramos?
+### 📌 Featured Projects
 
-Estoy abierto a colaborar en proyectos interesantes y desafiantes, especialmente si implican aprendizaje, IA o desarrollo mobile/web.  
-No dudes en contactarme o conectar conmigo en redes:
+- 🍣 **Sushi Restaurant Website** – Static responsive website using HTML and CSS  
+- ⚽ **Biwenger Demo (Flutter)** – UI prototype of the main game screen  
+- ⛽ **Gas Station App** – Mobile app using a public REST API for real-time gas prices  
+- ⚡ **REE Energy Analysis** – Web app with Streamlit + AI models to predict electricity generation in Spain  
 
-- 📬 Email: [samueljsanchez24@gmail.com]
-- 💼 LinkedIn: [[Samuel Sanchez Robles](https://www.linkedin.com/in/samuel-j-sanchez)]
+> 👉 Check out more in my [GitHub repositories](https://github.com/Samu-Sr00?tab=repositories)
+
+---
+
+### 🌱 Currently Learning
+
+- Advanced **AI applications** and ML model deployment  
+- Building beautiful and scalable apps with **Flutter**  
+- Data pipelines and real-time data processing
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to new opportunities and collaborations that allow me to grow and contribute to exciting projects.
+
+- 📧 Email: samueljsanchez24@gmail.com  
+- 💼 LinkedIn: [Samuel J. Sanchez](https://www.linkedin.com/in/samuel-j-sanchez)
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 💙 ¡Nos vemos en el código!
+  Thanks for visiting my profile! 💙 Let's build something great together.
 </p>
