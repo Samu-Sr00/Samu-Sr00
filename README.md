@@ -31,7 +31,7 @@ Soy una persona comprometida, proactiva y con una fuerte orientación al crecimi
 - ⛽ **App de Gasolineras** – App móvil que consulta una API REST del gobierno
 - ⚡ **Análisis con IA de la REE** – Web app con Streamlit y modelos de predicción eléctrica
 
-> Puedes ver más en mis [repositorios públicos](https://github.com/tu-usuario).
+> Puedes ver más en mis [repositorios públicos](https://github.com/Samu-Sr00).
 
 ---
 
@@ -48,8 +48,8 @@ Soy una persona comprometida, proactiva y con una fuerte orientación al crecimi
 Estoy abierto a colaborar en proyectos interesantes y desafiantes, especialmente si implican aprendizaje, IA o desarrollo mobile/web.  
 No dudes en contactarme o conectar conmigo en redes:
 
-- 📬 Email: [tu-correo@example.com]
-- 💼 LinkedIn: [tu-linkedin] *(opcional)*
+- 📬 Email: [samueljsanchez24@gmail.com]
+- 💼 LinkedIn: [[Samuel Sanchez Robles](https://www.linkedin.com/in/samuel-j-sanchez)]
 
 ---
 
