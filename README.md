@@ -52,6 +52,7 @@ I'm open to new opportunities and collaborations that allow me to grow and contr
 
 - 📧 Email: samueljsanchez24@gmail.com  
 - 💼 LinkedIn: [Samuel J. Sanchez](https://www.linkedin.com/in/samuel-j-sanchez)
+- 🖥️ Portafolio: [Portafolio Samuel J. Sanchez](https://www.linkedin.com/in/samuel-j-sanchez)
 
 ---
 
