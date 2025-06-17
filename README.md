@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Samuel 👋</h1>
 
 <p align="center">
-  <img src="" alt="Banner" style="width:100%; height:auto; aspect-ratio:2/1; object-fit:cover;" />
+  <img src="assets/banner.png" alt="Banner" style="width:100%; height:auto; aspect-ratio:2/1; object-fit:cover;" />
 </p>
 
 <p align="center">
